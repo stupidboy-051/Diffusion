@@ -1,0 +1,3 @@
+[submodule "MoEDiffusion/T-LoRA"]
+	path = MoEDiffusion/T-LoRA
+	url = https://github.com/stupidboy-051/T-LoRA.git
